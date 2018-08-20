@@ -1,0 +1,36 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 20px;
+}
+
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+#corr_table {
+  max-width: 100%;
+  margin-left: 100px;
+}
+
+#import_button {
+  width: 200px;
+}
+
+#price_table {
+  float:left;
+  margin-left: 20px;
+}
+
+#select_div {
+  float:left;
+  width: 20%;
+  padding-left: 50px;
+}
+
+#raw_header {
+  margin-left: 20px;
+}
